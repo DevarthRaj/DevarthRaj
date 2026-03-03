@@ -36,9 +36,6 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=DevarthRaj&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/DevarthRaj?style=for-the-badge&logo=github)](https://github.com/DevarthRaj)
-
 </div>
 
 ---
@@ -53,14 +50,13 @@
 |---|---|
 | 🎓 **College** | Mar Athanasius College of Engineering |
 | 📚 **Degree** | B.Tech Computer Science & Engineering |
-| 🏅 **CGPA** | 9.35 / 10 &nbsp;(2023 – Present) |
 | 🎯 **Focus** | Full Stack · DevOps · AI & ML |
 | 💻 **Languages** | Java · Python · JS · TS · C · C++ · SQL |
 | 🔨 **Currently** | Building ConnectSphere — AI Chat App |
 
 <br/>
 
-- 🌐 Comfortable across the full stack — from React UIs to PostgreSQL on AWS RDS
+- 🌐 Comfortable across the full stack — from Tailwind-styled UIs to PostgreSQL and Python backends
 - 🐳 Experimenting with **Docker** for consistent, reproducible dev environments
 - 🤖 Interested in applied AI — YOLOv8, MediaPipe, Gemini API
 - 📖 CS undergrad who genuinely enjoys reading docs and figuring things out
@@ -80,7 +76,7 @@
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevarthRaj&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8"/>
+
 
 </div>
 
@@ -170,7 +166,7 @@
 <!-- 🔁 ANIME GIF SLOT #4 — Replace URL with a chill/thinking anime gif (recommended: ~110x110px) -->
 <div align="center">
 
-<img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="110" alt="thinking anime gif"/>
+<img src="https://gifdb.com/images/high/gok-son-goku-thumbs-up-tqbq89ded1m7pcrx.webp" width="110" alt="thinking anime gif"/>
 
 <br/>
 
