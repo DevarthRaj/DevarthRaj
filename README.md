@@ -63,33 +63,18 @@
 
 <br clear="right"/>
 
----
 
-<!-- ==================== GITHUB STATS ==================== -->
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"/> &nbsp; GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevarthRaj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevarthRaj&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=c9d1d9"/>
-
-<br/><br/>
+<!--=====================GITHUB STATS=============================== --> 
 
 
-
-</div>
-
----
 
 <!-- ==================== CONTRIBUTION CALENDAR ==================== -->
 ## 📅 Contribution Calendar
 
-> Live calendar — each cell is a day, darker means more commits that day.
 
 <div align="center">
 
-[![Devarth's Contribution Calendar](https://ghchart.rshah.org/00d9ff/DevarthRaj)](https://github.com/DevarthRaj)
+[![Devarth's Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=DevarthRaj&theme=tokyo-night)](https://github.com/DevarthRaj)
 
 <sub>Updates daily from real GitHub activity</sub>
 
